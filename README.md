@@ -1,4 +1,4 @@
-# Welcome to my profile! 👋
+# Hello, World! 👋
 
 - 🧑 I'm Vitório Bearari 
 - 🎓 Computer Science student at [Sptech](https://sptech.school)  
